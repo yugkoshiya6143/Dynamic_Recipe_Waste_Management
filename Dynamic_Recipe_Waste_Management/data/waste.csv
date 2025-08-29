@@ -1,0 +1,5 @@
+id,name,quantity,unit,reason,date,cost
+1,Tomato,100,g,Expired,2025-08-15,10
+2,Bread,2,slices,Spoiled,2025-08-16,6
+3,Milk,200,ml,Expired,2025-08-14,9
+4,Onion,50,g,Leftover,2025-08-17,2

@@ -1,0 +1,13 @@
+id,name,quantity,unit,expiry_date,storage_type,date_added,cost
+1,Tomato,500.0,g,2025-08-25,fridge,2025-08-18,40.0
+2,Onion,1000.0,g,2025-08-30,pantry,2025-08-17,30.0
+3,Cheese,200.0,g,2025-08-22,fridge,2025-08-18,150.0
+4,Bread,8.0,slices,2025-08-20,pantry,2025-08-18,25.0
+5,Butter,100.0,g,2025-09-01,fridge,2025-08-17,80.0
+6,Garlic,150.0,g,2025-08-28,pantry,2025-08-16,20.0
+7,Lemon,3.0,pieces,2025-08-24,fridge,2025-08-17,15.0
+8,Rice,2000.0,g,2025-12-31,pantry,2025-08-15,120.0
+9,Milk,1000.0,ml,2025-08-21,fridge,2025-08-18,50.0
+10,Potato,1000.0,g,2025-08-28,pantry,2025-08-17,35.0
+11,Carrot,500.0,g,2025-08-26,fridge,2025-08-18,25.0
+12,Spinach,300.0,g,2025-08-22,fridge,2025-08-19,30.0

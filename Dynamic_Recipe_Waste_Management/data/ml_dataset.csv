@@ -1,0 +1,13 @@
+recipe_name,Bread,Butter,Carrot,Cheese,Garlic,Lemon,Milk,Onion,Potato,Rice,Spinach,Tomato
+Tomato Soup,0,0,0,0,1,0,0,1,0,0,0,1
+Cheese Sandwich,1,1,0,1,0,0,0,0,0,0,0,0
+Onion Salad,0,0,0,0,0,1,0,1,0,0,0,0
+Garlic Bread,1,1,0,0,1,0,0,0,0,0,0,0
+Vegetable Curry,0,0,0,0,1,0,0,1,1,0,0,1
+Fried Rice,0,0,0,0,1,0,0,1,0,1,0,0
+Butter Toast,1,1,0,0,0,0,0,0,0,0,0,0
+Tomato Salad,0,0,0,0,0,1,0,1,0,0,0,1
+Potato Curry,0,0,0,0,0,0,0,1,1,0,0,1
+Milk Rice,0,0,0,0,0,0,1,0,0,1,0,0
+Spinach Curry,0,0,0,0,1,0,0,1,0,0,1,0
+Carrot Soup,0,0,1,0,1,0,0,1,0,0,0,0

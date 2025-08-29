@@ -1,0 +1,13 @@
+recipe_id,recipe_name,ingredients
+1,Tomato Soup,"Tomato,Onion,Garlic"
+2,Cheese Sandwich,"Bread,Cheese,Butter"
+3,Onion Salad,"Onion,Lemon"
+4,Garlic Bread,"Bread,Garlic,Butter"
+5,Vegetable Curry,"Potato,Onion,Tomato,Garlic"
+6,Fried Rice,"Rice,Onion,Garlic"
+7,Butter Toast,"Bread,Butter"
+8,Tomato Salad,"Tomato,Onion,Lemon"
+9,Potato Curry,"Potato,Onion,Tomato"
+10,Milk Rice,"Rice,Milk"
+11,Spinach Curry,"Spinach,Onion,Garlic"
+12,Carrot Soup,"Carrot,Onion,Garlic"

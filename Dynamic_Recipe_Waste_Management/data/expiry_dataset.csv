@@ -1,0 +1,29 @@
+ingredient_type,days_since_purchase,storage_type,status
+Vegetables,1,fridge,Safe
+Vegetables,2,fridge,Safe
+Vegetables,3,fridge,Safe
+Vegetables,4,fridge,Safe
+Vegetables,5,fridge,Expire Soon
+Vegetables,6,fridge,Expire Soon
+Vegetables,7,fridge,Expired
+Vegetables,8,fridge,Expired
+Dairy,1,fridge,Safe
+Dairy,2,fridge,Safe
+Dairy,3,fridge,Safe
+Dairy,4,fridge,Safe
+Dairy,5,fridge,Safe
+Dairy,6,fridge,Expire Soon
+Dairy,7,fridge,Expire Soon
+Dairy,8,fridge,Expired
+Dairy,9,fridge,Expired
+
+Grains,1,pantry,Safe
+Grains,2,pantry,Safe
+Grains,3,pantry,Safe
+Grains,5,pantry,Safe
+Grains,7,pantry,Safe
+Grains,10,pantry,Safe
+Grains,15,pantry,Safe
+Grains,20,pantry,Safe
+Grains,25,pantry,Expire Soon
+Grains,30,pantry,Expired
